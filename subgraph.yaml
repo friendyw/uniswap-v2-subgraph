@@ -8,7 +8,8 @@ dataSources:
     name: Factory
     network: mainnet
     source:
-      address: '0x5C69bEe701ef814a2B6a3EDD4B1652CB9cc5aA6f'
+      # address: '0x5C69bEe701ef814a2B6a3EDD4B1652CB9cc5aA6f'
+      address: '0x06AAafC8A7E891548b285dfbFd6f03F3B08b0C2b'//factory_address
       abi: Factory
       startBlock: 10000834
     mapping:
